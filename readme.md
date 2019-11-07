@@ -3,6 +3,9 @@ Future Greeks Without Nested Stochastics – A Neural Network Approach
 
 https://www.soa.org/prof-dev/events/2019-ebig/
 
+Powerpoint slides at
+https://www.soa.org/globalassets/assets/files/e-business/pd/events/2019/ebig/2019-ebig-presentation-feng.pdf
+
 You can use https://nbviewer.jupyter.org/ to render the jupyter notebook if github has trouble with the rendering.
 
 Alternatively, you can open the notebook on Google Colab with the following links:
